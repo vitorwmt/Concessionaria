@@ -1,0 +1,11 @@
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\obj\Debug\netcoreapp2.2\Concessionaria.csprojAssemblyReference.cache
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\obj\Debug\netcoreapp2.2\Concessionaria.csproj.CoreCompileInputs.cache
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\obj\Debug\netcoreapp2.2\Concessionaria.AssemblyInfoInputs.cache
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\obj\Debug\netcoreapp2.2\Concessionaria.AssemblyInfo.cs
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\bin\Debug\netcoreapp2.2\Concessionaria.deps.json
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\bin\Debug\netcoreapp2.2\Concessionaria.runtimeconfig.json
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\bin\Debug\netcoreapp2.2\Concessionaria.runtimeconfig.dev.json
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\bin\Debug\netcoreapp2.2\Concessionaria.dll
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\bin\Debug\netcoreapp2.2\Concessionaria.pdb
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\obj\Debug\netcoreapp2.2\Concessionaria.dll
+C:\Users\guilherme.lima\Documents\exemplos\Concessionaria\Concessionaria\obj\Debug\netcoreapp2.2\Concessionaria.pdb
