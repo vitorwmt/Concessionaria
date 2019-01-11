@@ -692,11 +692,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\guilherme.lima\\Documents\\exemplos\\Concessionaria\\Concessionaria\\Concessionaria.csproj",
+      "projectUniqueName": "C:\\Users\\guilherme.lima\\Documents\\exemplos\\Concessionaria\\Concessionaria\\Concessionaria\\Concessionaria.csproj",
       "projectName": "Concessionaria",
-      "projectPath": "C:\\Users\\guilherme.lima\\Documents\\exemplos\\Concessionaria\\Concessionaria\\Concessionaria.csproj",
+      "projectPath": "C:\\Users\\guilherme.lima\\Documents\\exemplos\\Concessionaria\\Concessionaria\\Concessionaria\\Concessionaria.csproj",
       "packagesPath": "C:\\Users\\guilherme.lima\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\guilherme.lima\\Documents\\exemplos\\Concessionaria\\Concessionaria\\obj\\",
+      "outputPath": "C:\\Users\\guilherme.lima\\Documents\\exemplos\\Concessionaria\\Concessionaria\\Concessionaria\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

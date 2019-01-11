@@ -3,31 +3,29 @@ using Concessionaria.Repository.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;
 
 namespace Concessionaria.Service.Class
 {
     public class CarService : ICarService
     {
-        List<Car> objCar = new List<Car>();
-
-        public List<Car> listarCarrosPorAno(int _ano)
+        public List<Car> ListarCarrosPorAno(int ano)
         {
-             
-            foreach (var item in objCar)
-            {
-              //  return item.Id;
-            }
-            throw new NotImplementedException();
+            var lstCar = AddCar();
+
+            return lstCar.Where(x => x.Year == ano).ToList();
         }
 
-        public List<Car> listarCarrosPorMarca(string _marca)
+        public List<Car> ListarCarrosPorMarca(string marca)
         {
-            throw new NotImplementedException();
+            var lstCar = AddCar();
+
+            return lstCar.Where(x => x.Brand == marca).ToList();
         }
 
-        public void AddCar()
+        public List<Car> AddCar()
         {
+            var objCar = new List<Car>();
+
             Car car1 = new Car
             {
                 Id = Guid.NewGuid(),
@@ -54,6 +52,8 @@ namespace Concessionaria.Service.Class
                 Year = 2017
             };
             objCar.Add(car3);
+
+            return objCar;
         }
     }
 }
