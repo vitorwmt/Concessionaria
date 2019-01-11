@@ -5,6 +5,6 @@ namespace Concessionaria.Repository.Interfaces
 {
     public interface IDealerService
     {
-        List<Dealer> ListarConcessionariaPorMontadora(string montadora); 
+        List<Dealer> ListarConcessionariaPorMontadora(string montadora);
     }
 }

@@ -3,9 +3,9 @@ using System;
 
 namespace Concessionaria
 {
-    class Program
+    internal static class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var objCar = new CarService();
             var lst = objCar.ListarCarrosPorAno(2015);

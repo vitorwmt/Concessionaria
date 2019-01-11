@@ -23,7 +23,7 @@ namespace Concessionaria.Service.Class
             {
                 Id = Guid.NewGuid(),
                 Name = "Jhon",
-                Brand = "BMW"             
+                Brand = "BMW"
             };
             objDealer.Add(dealer1);
 
